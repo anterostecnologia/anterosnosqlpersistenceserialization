@@ -1,0 +1,11 @@
+/Volumes/dadosmac/projetos/workspace_versatil/Anteros-NoSql-Persistence-Serialization/src/main/java/br/com/anteros/nosql/persistence/serialization/jackson/AnterosProxyCollectionSerializer.java
+/Volumes/dadosmac/projetos/workspace_versatil/Anteros-NoSql-Persistence-Serialization/src/main/java/br/com/anteros/nosql/persistence/serialization/jackson/ModuleVersion.java
+/Volumes/dadosmac/projetos/workspace_versatil/Anteros-NoSql-Persistence-Serialization/src/main/java/br/com/anteros/nosql/persistence/serialization/jackson/AnterosAnnotatedAdapter.java
+/Volumes/dadosmac/projetos/workspace_versatil/Anteros-NoSql-Persistence-Serialization/src/main/java/br/com/anteros/nosql/persistence/serialization/jackson/AnterosNoSQLObjectMapper.java
+/Volumes/dadosmac/projetos/workspace_versatil/Anteros-NoSql-Persistence-Serialization/src/main/java/br/com/anteros/nosql/persistence/serialization/jackson/AnterosSerializerModifier.java
+/Volumes/dadosmac/projetos/workspace_versatil/Anteros-NoSql-Persistence-Serialization/src/main/java/br/com/anteros/nosql/persistence/serialization/jackson/AnterosPersistenceJacksonModule.java
+/Volumes/dadosmac/projetos/workspace_versatil/Anteros-NoSql-Persistence-Serialization/src/main/java/br/com/anteros/nosql/persistence/serialization/jackson/AnterosAnnotatedMemberAdapter.java
+/Volumes/dadosmac/projetos/workspace_versatil/Anteros-NoSql-Persistence-Serialization/src/main/java/br/com/anteros/nosql/persistence/serialization/jackson/AnterosProxySerializer.java
+/Volumes/dadosmac/projetos/workspace_versatil/Anteros-NoSql-Persistence-Serialization/src/main/java/br/com/anteros/nosql/persistence/serialization/jackson/AnterosAnnotationIntrospector.java
+/Volumes/dadosmac/projetos/workspace_versatil/Anteros-NoSql-Persistence-Serialization/src/main/java/br/com/anteros/nosql/persistence/serialization/jackson/AnterosSerializers.java
+/Volumes/dadosmac/projetos/workspace_versatil/Anteros-NoSql-Persistence-Serialization/src/main/java/br/com/anteros/nosql/persistence/serialization/jackson/JacksonSerializationException.java
